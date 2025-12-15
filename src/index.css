@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gr-400: hsl(180, 29%, 50%);
+
+  --color-gr-50: hsl(180, 52%, 96%);
+  --color-gra-400: hsl(180, 8%, 52%);
+  --color-gr-900: hsl(180, 14%, 20%);
+}
+body {
+  font-family: "League Spartan", sans-serif;
+}
